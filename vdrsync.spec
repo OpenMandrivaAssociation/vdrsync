@@ -2,7 +2,7 @@
 %define name	vdrsync
 %define version	0.1.2.2dev2
 %define snapshot 050322
-%define rel	1
+%define rel	2
 %define release %snapshot.%rel
 
 Summary:	Repack VDR recordings to DVD compatible fromat

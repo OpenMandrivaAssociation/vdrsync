@@ -13,6 +13,7 @@ Group:		Video
 License:	GPL
 URL:		http://vdrsync.vdr-portal.de/
 Source:		http://vdrsync.vdr-portal.de/releases/%name-%snapshot.tar.bz2
+BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildArch:	noarch
 
 %description

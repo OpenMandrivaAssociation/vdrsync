@@ -51,3 +51,25 @@ rm -rf %{buildroot}
 %doc CHANGES
 %{_bindir}/*.pl
 
+
+
+%changelog
+* Wed Sep 09 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.1.2.2dev2-050322.3mdv2010.0
++ Revision: 434661
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 0.1.2.2dev2-050322.2mdv2008.1
++ Revision: 136570
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+
+* Sat Jul 14 2007 Anssi Hannula <anssi@mandriva.org> 0.1.2.2dev2-050322.2mdv2008.0
++ Revision: 51957
+- annual rebuild
+
+
+* Thu Jun 15 2006 Anssi Hannula <anssi@mandriva.org> 0.1.2.2dev2-050322.1mdv2007.0
+- initial Mandriva release
+

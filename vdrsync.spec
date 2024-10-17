@@ -6,7 +6,7 @@ Version:	0.1.2.2dev2
 Release:	%{snapshot}.4
 Group:		Video
 License:	GPL
-URL:		http://vdrsync.vdr-portal.de/
+URL:		https://vdrsync.vdr-portal.de/
 Source:		http://vdrsync.vdr-portal.de/releases/%{name}-%snapshot.tar.bz2
 BuildArch:	noarch
 
